@@ -1,5 +1,5 @@
 # Mindy
-A no-nonsense minimal bot. Keeping it simple with moderation and utility commands, and nothing more. Mindy is written in discord.py.
+A no-nonsense minimal bot. Keeping it simple with moderation and utility commands, and nothing else. Mindy is written in discord.py.
 
 ## Invite
 To invite Mindy to your server, click <a href='https://discord.com/api/oauth2/authorize?client_id=750245181667934219&permissions=8&scope=bot'>here</a>. Mindy currently requires Administrator privileges, although this is likely to change under the principle of least privilege as more commands are added. 
