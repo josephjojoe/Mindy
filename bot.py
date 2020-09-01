@@ -50,14 +50,14 @@ async def botinvite(ctx):
 # Invite link for server
 @bot.command(name='invite', help="Returns a server invite link that lasts for one hour")
 async def serverinvite(ctx):
-    await ctx.send(ctx.author.guild.create_invite(max_age = 3600)) # TO FIXXXXXXX
+    await ctx.send(ctx.author.guild.create_invite(max_age = 3600))
 
 
 
 # TO DO:
 # 
-# invite link command for server
-# github command
+# invite link command for server, fix it
+# github command (link to github.com/josephjojoe)
 # 
 # 
 # 
