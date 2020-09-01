@@ -10,3 +10,4 @@ Note: You need the 'Manage Servers' permission to be able to add bots to your se
 Mindy's command prefix is 'mindy'. You can use it as such: `mindy [command]`.
 
 ## Commands
+[Work in progress]
