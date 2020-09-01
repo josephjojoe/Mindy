@@ -7,7 +7,7 @@ To invite Mindy to your server, click <a href='https://discord.com/api/oauth2/au
 Note: You need the 'Manage Servers' permission to be able to add bots to your server.
 
 ## How to use
-Mindy's command prefix is 'mindy'. You can use it as such: `mindy [command]`.
+Mindy's command prefix is `mindy`. You can use it as such: `mindy [command]`.
 
 ## Commands
 Some commands have alternative names - these are denoted by vertical bars and commas, e.g. `x | y, z`.
