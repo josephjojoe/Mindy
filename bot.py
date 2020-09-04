@@ -4,6 +4,10 @@ from discord.ext import commands # Imports dependencies
 import dotenv
 from dotenv import load_dotenv
 
+#
+# Operation
+#
+
 # Loads token from .env file
 load_dotenv()
 token = os.getenv('TOKEN')
@@ -68,6 +72,37 @@ async def serverinvite(ctx):
     serverInviteLink = await ctx.channel.create_invite()
     await ctx.send(serverInviteLink)
 
+#
+# Link Commands
+#
+
+@bot.command(name='reddit', help="Sends a link to Reddit")
+async def botinvite(ctx):
+    await ctx.send("https://reddit.com")
+
+@bot.command(name='instagram', help="Sends a link to Instagram")
+async def botinvite(ctx):
+    await ctx.send("https://instagram.com")
+
+@bot.command(name='twitter', help="Sends a link to Twitter")
+async def botinvite(ctx):
+    await ctx.send("https://twitter.com")
+
+@bot.command(name='discord', help="Sends a link to Discord, although you're already here!")
+async def botinvite(ctx):
+    await ctx.send("https://discord.com")
+
+@bot.command(name='facebook', help="Sends a link to Facebook")
+async def botinvite(ctx):
+    await ctx.send("https://facebook.com")
+
+@bot.command(name='tumblr', help="Sends a link to Tumblr")
+async def botinvite(ctx):
+    await ctx.send("https://tumblr.com")
+
+@bot.command(name='linkedin', help="Sends a link to Linkedin")
+async def botinvite(ctx):
+    await ctx.send("https://linkedin.com")
 
 
 # TO DO:
