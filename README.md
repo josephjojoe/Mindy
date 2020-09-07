@@ -55,3 +55,9 @@ Links to <a href='instagram.com'>Instagram</a>.
 #### twitter
 Links to <a href='twitter.com'>Twitter</a>.
 
+#### discord
+Links to <a href='discord.com'>Discord</a>.
+
+#### facebook
+Links to <a href='facebook.com'>Facebook</a>.
+
