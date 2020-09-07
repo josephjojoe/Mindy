@@ -61,3 +61,5 @@ Links to <a href='discord.com'>Discord</a>.
 #### facebook
 Links to <a href='facebook.com'>Facebook</a>.
 
+#### tumblr
+Links to <a href='tumblr.com'>Tumblr</a>.
