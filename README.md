@@ -47,4 +47,11 @@ Returns a list of Mindy commands with a brief accompanying description for each.
 ### Link Commands
 
 #### reddit
-Links to <a href='reddit.com/'>Reddit</a>.
+Links to <a href='reddit.com'>Reddit</a>.
+
+#### instagram
+Links to <a href='instagram.com'>Instagram</a>.
+
+#### twitter
+Links to <a href='twitter.com'>Twitter</a>.
+
