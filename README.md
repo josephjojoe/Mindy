@@ -43,3 +43,8 @@ Links to the <a href='github.com/josephjojoe/Mindy'>Mindy</a> repository.
 
 #### help
 Returns a list of Mindy commands with a brief accompanying description for each.
+
+### Link Commands
+
+#### reddit
+Links to <a href='reddit.com/'>Reddit</a>.
