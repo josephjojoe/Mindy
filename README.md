@@ -66,3 +66,6 @@ Links to <a href='tumblr.com'>Tumblr</a>.
 
 #### linkedin
 Links to <a href='linkedin.com'>Linkedin</a>.
+
+### Coming Soon
+Moderation commands!
