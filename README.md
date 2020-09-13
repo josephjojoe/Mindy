@@ -71,3 +71,6 @@ Links to [Linkedin](https://linkedin.com/).
 
 #### kick
 Kicks the specified member from the server.
+
+#### ban
+Bans the specified member from the server.
