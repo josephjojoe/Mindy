@@ -67,5 +67,7 @@ Links to [Tumblr](https://tumblr.com/).
 #### linkedin
 Links to [Linkedin](https://linkedin.com/).
 
-### Coming Soon
-Moderation commands!
+### Moderation Commands
+
+#### kick
+Kicks the specified member from the server.
